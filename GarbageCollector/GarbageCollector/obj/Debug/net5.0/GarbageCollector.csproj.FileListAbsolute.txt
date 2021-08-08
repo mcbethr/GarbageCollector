@@ -1,0 +1,16 @@
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\GarbageCollector.exe
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\GarbageCollector.deps.json
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\GarbageCollector.runtimeconfig.json
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\GarbageCollector.runtimeconfig.dev.json
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\GarbageCollector.dll
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\ref\GarbageCollector.dll
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\bin\Debug\net5.0\GarbageCollector.pdb
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.csproj.AssemblyReference.cache
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.AssemblyInfoInputs.cache
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.AssemblyInfo.cs
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.dll
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\ref\GarbageCollector.dll
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.pdb
+C:\Code\GarbageCollector\GarbageCollector\GarbageCollector\obj\Debug\net5.0\GarbageCollector.genruntimeconfig.cache
